@@ -1,0 +1,57 @@
+{
+  "seed": 3602026,
+  "unique_historical_bookings": 50000,
+  "unique_live_bookings": 1000,
+  "files": [
+    {
+      "path": "reference/customers.json.gz",
+      "physical_records": 5000,
+      "bytes": 49971
+    },
+    {
+      "path": "reference/services.json.gz",
+      "physical_records": 20,
+      "bytes": 610
+    },
+    {
+      "path": "providers/provider_initial.json.gz",
+      "physical_records": 250,
+      "bytes": 2842
+    },
+    {
+      "path": "providers/provider_changes_live.json.gz",
+      "physical_records": 30,
+      "bytes": 766
+    },
+    {
+      "path": "bookings/booking_batch_001.json.gz",
+      "physical_records": 11000,
+      "bytes": 699108
+    },
+    {
+      "path": "bookings/booking_batch_002.json.gz",
+      "physical_records": 11000,
+      "bytes": 699359
+    },
+    {
+      "path": "bookings/booking_batch_003.json.gz",
+      "physical_records": 11000,
+      "bytes": 699753
+    },
+    {
+      "path": "bookings/booking_batch_004.json.gz",
+      "physical_records": 11000,
+      "bytes": 700645
+    },
+    {
+      "path": "bookings/booking_batch_005.json.gz",
+      "physical_records": 11000,
+      "bytes": 700139
+    },
+    {
+      "path": "bookings/booking_live_batch.json.gz",
+      "physical_records": 1100,
+      "bytes": 67911
+    }
+  ]
+}
