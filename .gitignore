@@ -1,0 +1,15 @@
+# Local Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local credentials and editor files
+.env
+.DS_Store
+.idea/
+.vscode/
+
+# Generated data is intentionally versioned for the walkthrough.
+# Remove the next exception if your organization stores sample data elsewhere.
+!data/generated/**
+
